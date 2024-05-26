@@ -3,7 +3,7 @@
 <div align="center">
 
 - 🌱 Atualmente estou estudando Desenvolvedor FullStack.
-- 📫 Pode acessar meu portfolio por aqui: https://mrnicolait.github.io/PortfolioMaisPrTi/ 
+- 📫 Pode acessar meu portfolio por aqui: https://mrnicolait.github.io/PortfolioMaisPraTi/
  </div>
  
 <div align="center"> 
